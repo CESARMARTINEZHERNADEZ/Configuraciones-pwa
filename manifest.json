@@ -1,0 +1,91 @@
+{
+    "name": "Liga MX temporada 2022-2023",
+    "short_name": "#ligaMX2023",
+    "description": "informacion de la Liga MX temporada 2022-2023, campeon y tabla de pocisiones del 1 al 12",
+    "background_color": "#333",
+    "theme_color": "#fffffff8",
+    "orientation": "portrait",
+    "display": "standalone",
+    "start_url": "./?utm_source=web_app_manifest",
+    "scope": "./",
+    "lang": "es-MX",
+    "icons": [
+      {
+        "src": "./img/favicon.png",
+        "sizes": "360x360",
+        "type": "image/png"
+      },
+      {
+        "src": "./img/icono1.png",
+        "sizes": "1200x1801",
+        "type": "image/png"
+      },
+      {
+        "src": "./img/icono2.png",
+        "sizes": "400x400",
+        "type": "image/png"
+      },
+      {
+        "src": "./img/icono3.png",
+        "sizes": "1200x1548",
+        "type": "image/png"
+      },
+      {
+        "src": "./img/icono4.png",
+        "sizes": "2048x2048",
+        "type": "image/png"
+      },
+      {
+        "src": "./img/icono5.png",
+        "sizes": "800x1353",
+        "type": "image/png"
+      },
+      {
+        "src": "./img/icono6.png",
+        "sizes": "500x500",
+        "type": "image/png"
+      },
+      {
+        "src": "./img/icono7.png",
+        "sizes": "500x500",
+        "type": "image/png"
+      },
+      {
+        "src": "./img/icono8.png",
+        "sizes": "500x500",
+        "type": "image/png"
+      },
+      {
+        "src": "./img/icono9.png",
+        "sizes": "1200x1349",
+        "type": "image/png"
+      },
+      {
+        "src": "./img/icono10.png",
+        "sizes": "500x500",
+        "type": "image/png"
+      },
+      {
+        "src": "./img/icono11.png",
+        "sizes": "1200x1407",
+        "type": "image/png"
+      },
+      {
+        "src": "./img/icono12.png",
+        "sizes": "500x500",
+        "type": "image/png"
+      },
+      {
+        "src": "./img/logo.png",
+        "sizes": "1200x1009",
+        "type": "image/png"
+      },
+      {
+        "src": "./img/ame2.jpg",
+        "sizes": "1200x678",
+        "type": "image/jpg"
+      }
+      
+    ]
+  }
+  
